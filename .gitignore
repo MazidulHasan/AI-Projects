@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Environment files
+*.pyc
+__pycache__/
+
+# AI/ML specific files you might want to ignore
+# data/  <-- Only if data is large and shouldn't be tracked
+# notebooks/
